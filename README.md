@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Wagner Felipe e estou estuda para ser Dev. Front-End. 💻</p>
+<p align="left">Meu nome é Wagner Felipe e estou estudando para ser Dev. Front-End. 💻</p>
 
 ###
 
