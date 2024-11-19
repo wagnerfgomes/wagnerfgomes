@@ -8,15 +8,15 @@ Atualmente cursando *Análise e Desenvolvimento de Sistemas*. Sou apaixonado por
 
 <div style="display: flex; gap: 16px" >
   <img style="width: 24px" src="./assets/javascript.svg">
-  <img style="width: 24px" src="./assets/React.svg">
+  <img style="width: 24px" src="./assets/react.svg">
 </div>
 
 ##
 
 #### Contatos 📞
 <div style="display: flex; align-items: center; gap: 8px;"">
-        <a target="_blank" style="display: flex; align-items: center; gap: 8px;background-color: #0d1117; font-size: 12px; padding: 8px 16px; color: #fff; border: 1px solid #fff;" href="https://www.linkedin.com/in/wagner-felipe-gomes-ferreira-62959a260"><img style="width: 12px" src="assets/linkedin.svg"> Linkedin</a>
-        <a target="_blank" style="display: flex; align-items: center; gap: 8px;background-color: #0d1117; font-size: 12px; padding: 8px 16px; color: #fff; border: 1px solid #fff;" href="https://www.instagram.com/wgnr.f/"><img style="width: 12px" src="assets/instagram_dark.svg"> Instagram</a>
+        <a target="_blank" style="display: flex; align-items: center; gap: 8px; background-color: #0d1117; font-size: 12px; padding: 8px 16px; color: #fff; border: 1px solid #fff;" href="https://www.linkedin.com/in/wagner-felipe-gomes-ferreira-62959a260"><img style="width: 12px" src="assets/linkedin.svg"> Linkedin</a>
+        <a target="_blank" style="display: flex; align-items: center; gap: 8px; background-color: #0d1117; font-size: 12px; padding: 8px 16px; color: #fff; border: 1px solid #fff;" href="https://www.instagram.com/wgnr.f/"><img style="width: 12px" src="assets/instagram_dark.svg"> Instagram</a>
         <a target="_blank" style="display: flex; align-items: center; gap: 8px;background-color: #0d1117; font-size: 12px; padding: 8px 16px; color: #fff; border: 1px solid #fff;" href="https://stackoverflow.com/users/28366880/wagner-felipe"><img style="width: 12px" src="assets/stackoverflow.svg"> Stackoverflow</a>
 </div>
 
