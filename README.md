@@ -1,7 +1,6 @@
 <h1>Helo, World! 🌎 Tudo bem?</h1>
 
 **Meu nome é Wagner Felipe Gomes, futuro *DEV FRONT-END* 💻🖌️**
-_____________________________________________________
 
 #### Sobre Mim 📖
 Atualmente cursando *Análise e Desenvolvimento de Sistemas*. Sou apaixonado por técnologia e design. Sou uma pessoa criativa, curiosa e extrovertida, com uma paixão por explorar novas ideias e encontrar soluções inovadoras. Estou sempre em busca de oportunidades que me permitam aprender, evoluir e transformar ideias em realidade.
@@ -13,12 +12,11 @@ Atualmente cursando *Análise e Desenvolvimento de Sistemas*. Sou apaixonado por
 
 ##
 
-#### Contatos 📞
-<div style="display: flex; align-items: center; gap: 8px;"">
-        <a target="_blank" style="display: flex; align-items: center; gap: 8px; background-color: #0d1117; font-size: 12px; padding: 8px 16px; color: #fff; border: 1px solid #fff;" href="https://www.linkedin.com/in/wagner-felipe-gomes-ferreira-62959a260"><img style="width: 12px" src="assets/linkedin.svg"> Linkedin</a>
-        <a target="_blank" style="display: flex; align-items: center; gap: 8px; background-color: #0d1117; font-size: 12px; padding: 8px 16px; color: #fff; border: 1px solid #fff;" href="https://www.instagram.com/wgnr.f/"><img style="width: 12px" src="assets/instagram_dark.svg"> Instagram</a>
-        <a target="_blank" style="display: flex; align-items: center; gap: 8px;background-color: #0d1117; font-size: 12px; padding: 8px 16px; color: #fff; border: 1px solid #fff;" href="https://stackoverflow.com/users/28366880/wagner-felipe"><img style="width: 12px" src="assets/stackoverflow.svg"> Stackoverflow</a>
-</div>
+#### Redes Sociais 🔗
+[![Linkedin](https://img.shields.io/badge/linkedin-0d1117?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wagner-felipe-gomes-ferreira-62959a260)
+[![Instagram](https://img.shields.io/badge/instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wgnr.f/)
+[![Stackoverflow](https://img.shields.io/badge/stackoverflow-0d1117?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/28366880/wagner-felipe)
+
 
 
 ##
