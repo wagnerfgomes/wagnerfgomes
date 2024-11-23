@@ -29,5 +29,5 @@ Atualmente cursando *Análise e Desenvolvimento de Sistemas*. Sou apaixonado por
 
 ##
 
-### Visitas ☕
-[![](https://visitcount.itsvg.in/api?id=wagnerfgomes&icon=5&color=12)](https://visitcount.itsvg.in)
+<!-- ### Visitas ☕
+[![](https://visitcount.itsvg.in/api?id=wagnerfgomes&icon=5&color=12)](https://visitcount.itsvg.in) -->
