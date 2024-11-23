@@ -1,4 +1,4 @@
-<img style="width: 48px" src="./assets/logo.svg">
+<img style="width: 40px" src="./assets/logo.svg">
 <h1>Helo, World! 🌎 Tudo bem?</h1>
 
 **Meu nome é Wagner Felipe Gomes, futuro *DEV FRONT-END* 💻🖌️**
