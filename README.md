@@ -1,3 +1,4 @@
+<img style="width: 48px" src="./assets/logo.svg">
 <h1>Helo, World! 🌎 Tudo bem?</h1>
 
 **Meu nome é Wagner Felipe Gomes, futuro *DEV FRONT-END* 💻🖌️**
@@ -13,9 +14,10 @@ Atualmente cursando *Análise e Desenvolvimento de Sistemas*. Sou apaixonado por
 ##
 
 ### Redes Sociais 🔗
-[![Linkedin](https://img.shields.io/badge/linkedin-010409?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wagner-felipe-gomes-ferreira-62959a260)
-[![Instagram](https://img.shields.io/badge/instagram-010409?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wgnr.f/)
-[![Stackoverflow](https://img.shields.io/badge/stackoverflow-010409?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/28366880/wagner-felipe)
+
+[![Linkedin](./assets/linkedin.svg)](https://www.linkedin.com/in/wagner-felipe-gomes-ferreira-62959a260)
+[![Instagram](./assets/instagram.svg)](https://www.instagram.com/wgnr.f/)
+[![Stackoverflow](./assets/stackoverflow.svg)](https://stackoverflow.com/users/28366880/wagner-felipe)
 
 ##
 
