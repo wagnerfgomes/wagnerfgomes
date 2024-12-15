@@ -1,22 +1,22 @@
-<img style="width: 40px" src="./assets/logo.svg">
-<h1>Helo, World! 🌎 Tudo bem?</h1>
+<img style="width: 64px" src="./assets/logo.svg">
+<h1 style='color: #9F06FF'>Helo, World! Tudo bem?</h1>
 
 **Meu nome é Wagner Felipe Gomes, futuro *DEV FRONT-END* 💻🖌️**
+
+###
 
 ### Sobre Mim 📖
 Atualmente cursando *Análise e Desenvolvimento de Sistemas*. Sou apaixonado por técnologia e design. Sou uma pessoa criativa, curiosa e extrovertida, com uma paixão por explorar novas ideias e encontrar soluções inovadoras. Estou sempre em busca de oportunidades que me permitam aprender, evoluir e transformar ideias em realidade.
 
-<div>
-  <img style="width: 24px" src="./assets/javascript.svg">
-  <img style="width: 24px" src="./assets/react.svg">
-</div>
+<img style="width: 24px" src="./assets/javascript.svg">
+<img style="width: 24px" src="./assets/react.svg">
 
-##
+###
 
 ### Redes Sociais 🔗
 
 [![Linkedin](./assets/linkedin.svg)](https://www.linkedin.com/in/wagner-felipe-gomes-ferreira-62959a260)
-[![Instagram](./assets/instagram.svg)](https://www.instagram.com/wgnr.f/)
+[![Instagram](./assets/instagram.svg)](https://www.instagram.com/wgnr.dev/)
 [![Stackoverflow](./assets/stackoverflow.svg)](https://stackoverflow.com/users/28366880/wagner-felipe)
 
 ##
@@ -28,6 +28,3 @@ Atualmente cursando *Análise e Desenvolvimento de Sistemas*. Sou apaixonado por
 </div>
 
 ##
-
-<!-- ### Visitas ☕
-[![](https://visitcount.itsvg.in/api?id=wagnerfgomes&icon=5&color=12)](https://visitcount.itsvg.in) -->
