@@ -1,16 +1,20 @@
-<img style="width: 64px" src="./assets/logo.svg">
+<img style="width: 64px" src="./assets/logo-perfil.svg">
 <h1>Helo, World! Tudo bem?</h1>
-
-**Meu nome é Wagner Felipe Gomes, futuro *DEV FRONT-END* 💻🖌️**
 
 ###
 
 ### Sobre Mim 📖
-Atualmente cursando *Análise e Desenvolvimento de Sistemas*. Sou apaixonado por técnologia e design. Sou uma pessoa criativa, curiosa e extrovertida, com uma paixão por explorar novas ideias e encontrar soluções inovadoras. Estou sempre em busca de oportunidades que me permitam aprender, evoluir e transformar ideias em realidade.
+Sou desenvolvedor em constante aprendizado, apaixonado por tecnologia, inovação e design. Criativo, curioso e extrovertido, gosto de explorar novas ideias e transformar problemas em soluções inteligentes. Estou sempre em busca de desafios que me permitam evoluir e contribuir com projetos que façam a diferença.
 
 <div>
-  <img style="width: 24px" src="./assets/javascript.svg">
-  <img style="width: 24px" src="./assets/react.svg">
+  <img style="width: 24px" src="./assets/stack/javascript.svg">
+  <img style="width: 24px" src="./assets/stack/typescript.svg">
+  <img style="width: 24px" src="./assets/stack/react.svg">
+  <img style="width: 24px" src="./assets/stack/tailwindcss.svg">
+  <img style="width: 24px" src="./assets/stack/java.svg">
+  <img style="width: 24px" src="./assets/stack/spring.svg">
+  <img style="width: 24px" src="./assets/stack/mysql.svg">
+  <img style="width: 24px" src="./assets/stack/docker.svg">
 <div/>
 
 ###
@@ -18,7 +22,7 @@ Atualmente cursando *Análise e Desenvolvimento de Sistemas*. Sou apaixonado por
 ### Redes Sociais 🔗
 
 [![Linkedin](./assets/linkedin.svg)](https://www.linkedin.com/in/wagner-felipe-gomes-ferreira-62959a260)
-[![Instagram](./assets/instagram.svg)](https://www.instagram.com/wgnr.dev/)
+[![Instagram](./assets/instagram.svg)](https://www.instagram.com/wgnr.f/)
 [![Stackoverflow](./assets/stackoverflow.svg)](https://stackoverflow.com/users/28366880/wagner-felipe)
 
 ##
