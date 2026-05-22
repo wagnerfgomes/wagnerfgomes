@@ -4,12 +4,16 @@
 ###
 
 ### Sobre Mim 📖
-Sou desenvolvedor em constante aprendizado, apaixonado por tecnologia, inovação e design. Criativo, curioso e extrovertido, gosto de explorar novas ideias e transformar problemas em soluções inteligentes. Estou sempre em busca de desafios que me permitam evoluir e contribuir com projetos que façam a diferença.
+
+Desenvolvedor Front-End focado em React e Next.js, buscando minha primeira oportunidade formal na área. Trabalho com TypeScript no dia a dia, tenho base em back-end com Java/Spring Boot e gosto de construir interfaces que funcionam de verdade — não só parecem funcionar.
+
+📍 Recife, PE — aberto a remoto/híbrido
 
 <div>
-  <img style="width: 24px" src="./assets/stack/javascript.svg">
   <img style="width: 24px" src="./assets/stack/typescript.svg">
+  <img style="width: 24px" src="./assets/stack/javascript.svg">
   <img style="width: 24px" src="./assets/stack/react.svg">
+  <img style="width: 24px" src="./assets/stack/next.svg">
   <img style="width: 24px" src="./assets/stack/tailwindcss.svg">
   <img style="width: 24px" src="./assets/stack/java.svg">
   <img style="width: 24px" src="./assets/stack/spring.svg">
@@ -21,16 +25,26 @@ Sou desenvolvedor em constante aprendizado, apaixonado por tecnologia, inovaçã
 
 ### Redes Sociais 🔗
 
-[![Linkedin](./assets/linkedin.svg)](https://www.linkedin.com/in/wagner-felipe-gomes-ferreira-62959a260)
+[![Linkedin](./assets/linkedin.svg)](https://www.linkedin.com/in/wagnerfelipegomesferreiradev/)
 [![Instagram](./assets/instagram.svg)](https://www.instagram.com/wgnr.f/)
 [![Stackoverflow](./assets/stackoverflow.svg)](https://stackoverflow.com/users/28366880/wagner-felipe)
 
 ##
 
+### Projetos 🚀
+
+| Projeto | Stack | Descrição |
+|---|---|---|
+| [Sinandi](https://github.com/wagnerfgomes/front-Sinandi) | Next.js · Node.js · Prisma | Análise de dependência de internet no Brasil — consome dados externos e gera insights para políticas públicas |
+| [SimpleTwitter](https://github.com/wagnerfgomes/projeto-api-simpleTwitter) | Java 21 · Spring Boot · OAuth2/JWT | API RESTful com autenticação segura, roles e feed paginado |
+
+##
+
 ### Atividades 👨‍💻
+
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=wagnerfgomes&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=github_dark&locale=pt-br&hide_border=false&order=1" height="100" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wagnerfgomes&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=github_dark&hide_border=false&order=2" height="100" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com/?user=wagnerfgomes&theme=github-dark&hide_border=false&locale=pt_BR" height="150" alt="streak stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wagnerfgomes&theme=github_dark" height="150" alt="languages graph" />
 </div>
 
 ##
