@@ -7,8 +7,6 @@
 
 Desenvolvedor Front-End focado em React e Next.js, buscando minha primeira oportunidade formal na área. Trabalho com TypeScript no dia a dia, tenho base em back-end com Java/Spring Boot e gosto de construir interfaces que funcionam de verdade — não só parecem funcionar.
 
-📍 Recife, PE — aberto a remoto/híbrido
-
 <div>
   <img style="width: 24px" src="./assets/stack/typescript.svg">
   <img style="width: 24px" src="./assets/stack/javascript.svg">
@@ -35,6 +33,7 @@ Desenvolvedor Front-End focado em React e Next.js, buscando minha primeira oport
 
 | Projeto | Stack | Descrição |
 |---|---|---|
+| [my-finance](https://github.com/wagnerfgomes/my-finance) | Next.js 16 · Tauri 2 · SQLite | App desktop de controle financeiro com dados 100% locais — dashboard, histórico de transações e wish list |
 | [Sinandi](https://github.com/wagnerfgomes/front-Sinandi) | Next.js · Node.js · Prisma | Análise de dependência de internet no Brasil — consome dados externos e gera insights para políticas públicas |
 | [SimpleTwitter](https://github.com/wagnerfgomes/projeto-api-simpleTwitter) | Java 21 · Spring Boot · OAuth2/JWT | API RESTful com autenticação segura, roles e feed paginado |
 
